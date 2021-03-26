@@ -1,0 +1,35 @@
+出题规律
+第一题：划水题（稍微有些编程经验就可以写）
+第二题：小模拟（处理比较简单的问题，掌握C++STL很有帮助）
+第三题：大模拟（处理复杂的问题，一般涉及字符串处理，需要熟练掌握C++STL并且细心）
+（前3题基本上不用考虑数据超时问题）
+第四题：算法题（难度一般，重点考图论算法和动态规划）
+第五题：算法题（难度很高，涉及算法面很多，而且数据量很大，需要对算法极致优化，很难满分）
+
+2013 - 12 - 4 - DP
+            5 - DFS
+2014 - 03 - 4 - BFS
+2014 - 09 - 4 - BFS
+2014 - 12 - 4 - 最小生成树
+2015 - 03 - 4 - BFS
+2015 - 09 - 4 - 强连通分量
+2015 - 12 - 4 - 欧拉路径
+2016 - 03 - 4 - BFS，DP
+2016 - 09 - 4 - 最短路径
+2016 - 12 - 4 - DP
+2017 - 03 - 4 - 最短路径
+2017 - 09 - 4 - BFS, DFS
+            5 - 树状数组
+2017 - 12 - 4 - 最短路径
+2018 - 03 - 4 - DFS（取后代最优值）
+2018 - 09 - 4 - DFS（记忆化）
+2018 - 12 - 4 - 最小生成树
+2019 - 03 - 4 - 无
+
+2014 - 09 https://blog.csdn.net/vcvycy/article/details/78243162
+2014 - 12 https://blog.csdn.net/vcvycy/article/details/78244094
+2015 - 09 (90) https://blog.csdn.net/vcvycy/article/details/78252856
+2016 - 09 https://blog.csdn.net/vcvycy/article/details/78283991
+2016 - 12 (75) https://blog.csdn.net/vcvycy/article/details/78236367
+2017 - 03 (60) https://blog.csdn.net/vcvycy/article/details/78236395
+2017 - 09 https://blog.csdn.net/vcvycy/article/details/78236424
